@@ -4,7 +4,7 @@ Created on Thu Sep  1 18:49:11 2022
 
 @author: Python
 """
-
+#adding a comment line here just to make a simple change  
 
 
 l=[1,0,1,1,0]
